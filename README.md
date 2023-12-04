@@ -1,40 +1,19 @@
-
 Please find here the link to the project wiki: https://git.sbg.ac.at/s1095729/sdi_sudan_migration/-/wikis/Sudan_Migration
 
 ## Name
 SudMig - **SUD**an: monitoring **MIG**rant movements related to the 2023 conflict.
 
 ## Description
-Let people know what your project can do specifically. Provide context and add a link to any reference visitors might be unfamiliar with. A list of Features or a Background subsection can also be added here. If there are alternatives to your project, this is a good place to list differentiating factors.
+The SudMig project aims at developing an interactive dashboard that provides valuable insights on the latest Sudanese internal migration. This is done by developing a well-founded underlying SDI (Spatial Data Infrastructure) strategy for the efficient and transparent gathering, processing and sharing of the migration geodata and the effective visualization in an informative dashboard. The SudMig dashboard, thereby, supports United Nation’s decision-making processes related to the 2023 military conflict which causes millions to flee to other parts of the country and neighbouring countries.    
 
-## Badges
-On some READMEs, you may see small images that convey metadata, such as whether or not all the tests are passing for the project. You can use Shields to add some to your README. Many services also have instructions for adding a badge.
+Different parameters related to Sudanese internal migration, such as the number of Internally Displaced People (IDPs), their origin and destination within Sudan, the demographics as well as geocoded data, like Sudan’s administrative boundaries, will be collected, organized, and visualized effectively. The data will be organized and stored in a PostgreSQL (PostGIS) database management system and published with web-services, such as the OGC Web Map Service and Web Feature Service. Finally, the data will be integrated into the SudMig dashboard, so that our important migration parameters and trends can create impact by being communicated to the decision-makers briefly and at a glance.  
 
-## Visuals
-Depending on what you are making, it can be a good idea to include screenshots or even a video (you'll frequently see GIFs rather than actual videos). Tools like ttygif can help, but check out Asciinema for a more sophisticated method.
-
-## Installation
-Within a particular ecosystem, there may be a common way of installing things, such as using Yarn, NuGet, or Homebrew. However, consider the possibility that whoever is reading your README is a novice and would like more guidance. Listing specific steps helps remove ambiguity and gets people to using your project as quickly as possible. If it only runs in a specific context like a particular programming language version or operating system or has dependencies that have to be installed manually, also add a Requirements subsection.
-
-## Usage
-Use examples liberally, and show the expected output if you can. It's helpful to have inline the smallest example of usage that you can demonstrate, while providing links to more sophisticated examples if they are too long to reasonably include in the README.
-
-## Support
-Tell people where they can go to for help. It can be any combination of an issue tracker, a chat room, an email address, etc.
-
-## Roadmap
-If you have ideas for releases in the future, it is a good idea to list them in the README.
-
-## Contributing
-State if you are open to contributions and what your requirements are for accepting them.
-
-For people who want to make changes to your project, it's helpful to have some documentation on how to get started. Perhaps there is a script that they should run or some environment variables that they need to set. Make these steps explicit. These instructions could also be useful to your future self.
-
-You can also document commands to lint the code or run tests. These steps help to ensure high code quality and reduce the likelihood that the changes inadvertently break something. Having instructions for running tests is especially helpful if it requires external setup, such as starting a Selenium server for testing in a browser.
+## Contribution
+Suggestions or comments from other students and external interested people are highly appreciated! 
 
 ## Authors and acknowledgment
 Stamatina Tounta - 3rd Semester Student M.Sc. Applied Geoinformatics at the Paris-Lodron-University in Salzburg 
 Noah Greupner - 3rd Semester Student M.Sc. Applied Geoinformatics at the Paris-Lodron-University in Salzburg 
 
 ## Project status
-The project is currently active and will be finished in early 2024. Suggestions or comments from other students and external interested people are highly appreciated!
+The project is currently active and will be finished in early 2024. 
