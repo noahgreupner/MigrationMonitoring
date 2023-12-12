@@ -12,8 +12,8 @@ Different parameters related to Sudanese internal migration, such as the number 
 Suggestions or comments from other students and external interested people are highly appreciated! 
 
 ## Authors and acknowledgment
-Stamatina Tounta - 3rd Semester Student M.Sc. Applied Geoinformatics at the Paris-Lodron-University in Salzburg <br>
-Noah Greupner - 3rd Semester Student M.Sc. Applied Geoinformatics at the Paris-Lodron-University in Salzburg 
+Stamatina Tounta - 3rd Semester Student M.Sc. Applied Geoinformatics at the Paris-Lodron-University in Salzburg (stamatina.tounta@stud.plus.ac.at) <br>
+Noah Greupner - 3rd Semester Student M.Sc. Applied Geoinformatics at the Paris-Lodron-University in Salzburg (noah.greupner@stud.plus.ac.at) 
 
 ## Project status
 The project is currently active and will be finished in early 2024. 
