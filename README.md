@@ -12,8 +12,23 @@ Different parameters related to Sudanese internal migration, such as the number 
 Suggestions or comments from other students and external interested people are highly appreciated! 
 
 ## Authors and acknowledgment
-Stamatina Tounta - 3rd Semester Student M.Sc. Applied Geoinformatics at the Paris-Lodron-University in Salzburg (stamatina.tounta@stud.plus.ac.at) <br>
-Noah Greupner - 3rd Semester Student M.Sc. Applied Geoinformatics at the Paris-Lodron-University in Salzburg (noah.greupner@stud.plus.ac.at) 
+Stamatina Tounta - 3rd Semester Student M.Sc. A. Geoinformatics at the Paris-Lodron-University Salzburg (stamatina.tounta@stud.plus.ac.at) <br>
+Noah Greupner - 3rd Semester Student M.Sc. A. Geoinformatics at the Paris-Lodron-University Salzburg (noah.greupner@stud.plus.ac.at) 
 
 ## Project status
 The project is currently active and will be finished in early 2024. 
+
+## Folder structure
+Please find above the SudMig documents and data. In the 'Project_management' folder you find:
+- the up-to-date Gantt Chart 
+- the up-to-date time sheets of the authors 
+- the granted project proposal
+- the mid-term project presentation
+- the final project report (will be added by end pf January)
+
+In the 'Data' folder you find:
+- the geodata (SudMig_Sudan_AdmBoundaries_Level1) that was used to geocode the actual migration data (.shp) <br>
+- the geocoded migration data (SudMig_Monthly_IDPs_Displacement) which was joined with the geodata by using the state of displacement of IDPs (.shp) <br>
+- the geocoded migration data (SudMig_Monthly_IDPs_Origin) which was joined with the geodata by using the state of origin of IDPs (.shp) <br>
+
+The 'Metadata' folder will be filled with metadata information soon.  
