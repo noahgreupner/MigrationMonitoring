@@ -19,16 +19,18 @@ Noah Greupner - 3rd Semester Student M.Sc. A. Geoinformatics at the Paris-Lodron
 The project is currently active and will be finished in early 2024. 
 
 ## Folder structure
-Please find above the SudMig documents and data. In the 'Project_management' folder you find:
-- the up-to-date Gantt Chart 
-- the up-to-date time sheets of the authors 
-- the granted project proposal
-- the mid-term project presentation
-- the final project report (will be added by end pf January)
+Please find in the repository the SudMig documents and data. <br> In the 'Project_management' folder you find:
+- the up-to-date Gantt Chart (.xlsx)
+- the up-to-date time sheets of the authors (.xlsx)
+- the granted project proposal ('Project_Overview') (.pdf)
+- the mid-term project presentation (.pdf)
+- the final project report (will be added by end of January)
+- the project milestones (.xlsx)
+- the work breakdown diagram (.pptx)
 
 In the 'Data' folder you find:
-- the geodata (SudMig_Sudan_AdmBoundaries_Level1) that was used to geocode the actual migration data (.shp) <br>
-- the geocoded migration data (SudMig_Monthly_IDPs_Displacement) which was joined with the geodata by using the state of displacement of IDPs (.shp) <br>
-- the geocoded migration data (SudMig_Monthly_IDPs_Origin) which was joined with the geodata by using the state of origin of IDPs (.shp) <br>
+- the geodata ('SudMig_Sudan_AdmBoundaries_Level1.zip') that was used to geocode the actual migration data (.shp) <br>
+- the geocoded migration data ('SudMig_Monthly_IDPs_Displacement.zip') which was joined with the geodata by using the state of displacement of IDPs (.shp) <br>
+- the geocoded migration data ('SudMig_Monthly_IDPs_Origin.zip') which was joined with the geodata by using the state of origin of IDPs (.shp) <br>
 
-The 'Metadata' folder will be filled with metadata information soon.  
+The 'Metadata' folder will be filled with metadata information in early January.  
