@@ -22,7 +22,7 @@ The project is currently active and will be finished in early 2024.
 Please find in the repository the SudMig documents and data. <br> In the 'Project_management' folder you find:
 - the up-to-date Gantt Chart (.xlsx)
 - the up-to-date time sheets of the authors (.xlsx)
-- the granted project proposal ('Project_Overview') (.pdf)
+- the granted project proposal (.pdf)
 - the mid-term project presentation (.pdf)
 - the final project report (will be added by end of January)
 - the project milestones (.xlsx)
