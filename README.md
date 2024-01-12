@@ -1,4 +1,4 @@
-Please find here the link to the project wiki: https://git.sbg.ac.at/s1095729/sdi_sudan_migration/-/wikis/Welcome-to-the-SudMig-project!
+Please find here the link to the project wiki: https://git.sbg.ac.at/s1095729/sdi_sudan_migration/-/wikis/Home
 
 ## Name
 SudMig - **Sud**an: monitoring **Mig**rant movements related to the 2023 conflict.
