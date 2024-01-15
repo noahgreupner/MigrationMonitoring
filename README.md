@@ -34,4 +34,4 @@ In the 'Data' folder you find:
 - the geocoded migration data ('SudMig_Monthly_IDPs_Displacement.zip') which was joined with the geodata by using the state of displacement of IDPs (.shp) <br>
 - the geocoded migration data ('SudMig_Monthly_IDPs_Origin.zip') which was joined with the geodata by using the state of origin of IDPs (.shp) <br>
 
-The 'Metadata' folder will be filled with metadata information in early January.  
+The 'Metadata' folder will be filled with metadata information in January 2024.  
