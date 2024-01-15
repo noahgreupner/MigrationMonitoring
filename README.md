@@ -1,4 +1,4 @@
-Please find here the link to the project wiki: https://git.sbg.ac.at/s1095729/sdi_sudan_migration/-/wikis/Home
+Please find [here](https://git.sbg.ac.at/s1095729/sdi_sudan_migration/-/wikis/Home) the project Wiki. 
 
 ## Name
 SudMig - **Sud**an: monitoring **Mig**rant movements related to the 2023 conflict.
@@ -27,6 +27,7 @@ Please find in the repository the SudMig documents and data. <br> In the 'Projec
 - the final project report (will be added by end of January)
 - the project milestones (.xlsx)
 - the work breakdown diagram (.pptx)
+- the (initial) project idea (.docx)
 
 In the 'Data' folder you find:
 - the geodata ('SudMig_Sudan_AdmBoundaries_Level1.zip') that was used to geocode the actual migration data (.shp) <br>
