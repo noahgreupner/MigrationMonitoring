@@ -21,7 +21,7 @@ The project is currently active and will be finished in early 2024.
 ## Folder structure
 Please find in the repository the SudMig documents and data.
 
-In the 'Project_management' folder you find the following documents:
+In the '**Project_management**' folder you find the following documents:
 - Gantt Chart (PDF)
 - Time sheets of the authors (EXCEL)
 - Project proposal (PDF)
@@ -32,11 +32,11 @@ In the 'Project_management' folder you find the following documents:
 - Final project presentation (will be added by end of January 2024)
 - Final project report (will be added by mid of February 2024)
 
-In the 'Data' folder you find:
+In the '**Data**' folder you find:
 - the geodata ('SudMig_Sudan_AdmBoundaries_Level1.zip') that was used to geocode the actual migration data (.shp) <br>
 - the geocoded migration data ('SudMig_Monthly_IDPs_Displacement.zip') which was joined with the geodata by using the state of displacement of IDPs (.shp) <br>
 - the geocoded migration data ('SudMig_Monthly_IDPs_Origin.zip') which was joined with the geodata by using the state of origin of IDPs (.shp) <br>
 
-In the 'Metadata' folder you find:
+In the '**Metadata**' folder you find:
 - the ISO19139-compliant metadata of the SudMig dataset in XML format ("SudMig_Monthly_IDPs_2023_ISO19139.xml") as well as in human-readable format ("SudMig_Monthly_IDPs_2023.pdf and .html)
 - the ISO19139-compliant metadata of the administrative boundaries of Sudan also in XML, PDF, and HTML format ("SudMig_Sudan_AdmBoundaries_Level1_ISO19139")    
