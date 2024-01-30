@@ -1,10 +1,10 @@
 # SudMig - **Sud**an: monitoring **Mig**rant movements related to the 2023 conflict.
 
 ## Project links 
-[GitLab Wiki](https://git.sbg.ac.at/s1095729/sdi_sudan_migration/-/wikis/Home)
-[Interactive Dashboard](https://geoportal22s.zgis.at/portal/apps/insights/index.html#/edit/94ecaf65cf844b3b8994069b97a63b90)
-[WFS (IDPs)](https://zgis216.geo.sbg.ac.at/server/services/SudMig_Monthly_IDPs/MapServer/WFSServer)
-[WMS (Administrative Boundaries Sudan)](https://zgis216.geo.sbg.ac.at/server/services/SudMig_Sudan_States_AdminLevel1/MapServer/WMSServer)
+[GitLab Wiki](https://git.sbg.ac.at/s1095729/sdi_sudan_migration/-/wikis/Home) <br>
+[Interactive Dashboard](https://geoportal22s.zgis.at/portal/apps/insights/index.html#/edit/94ecaf65cf844b3b8994069b97a63b90) <br>
+[WFS (IDPs)](https://zgis216.geo.sbg.ac.at/server/services/SudMig_Monthly_IDPs/MapServer/WFSServer) <br>
+[WMS (Administrative Boundaries Sudan)](https://zgis216.geo.sbg.ac.at/server/services/SudMig_Sudan_States_AdminLevel1/MapServer/WMSServer) <br>
 
 ## Description
 The SudMig project aims at developing an interactive dashboard that provides valuable insights on the latest Sudanese internal migration. This is done by developing a well-founded underlying SDI (Spatial Data Infrastructure) strategy for the efficient and transparent gathering, processing and sharing of the migration geodata and the effective visualization in an informative dashboard. The SudMig dashboard, thereby, supports United Nation’s decision-making processes related to the 2023 military conflict which causes millions to flee to other parts of the country and neighbouring countries.     
