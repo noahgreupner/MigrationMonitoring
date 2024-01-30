@@ -1,4 +1,4 @@
-# SudMig - **Sud**an: monitoring **Mig**rant movements related to the 2023 conflict.
+# SudMig - **Sud**an: Monitoring **Mig**rant Movements Related To The 2023 Conflict
 
 <img src="Logo/SudMig_Logo.jpg" alt="SudMig Logo" height=250px/>
 
