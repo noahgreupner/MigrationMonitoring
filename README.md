@@ -1,6 +1,6 @@
 # SudMig - **Sud**an: monitoring **Mig**rant movements related to the 2023 conflict.
 
-<img src="Logo/SudMig_Logo.jpg" alt="SudMig Logo" style="height: 50px"/>
+<img src="Logo/SudMig_Logo.jpg" alt="SudMig Logo" height: 50px/>
 
 ## Project links 
 [GitLab Wiki](https://git.sbg.ac.at/s1095729/sdi_sudan_migration/-/wikis/Home) <br>
