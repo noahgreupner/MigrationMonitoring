@@ -32,7 +32,7 @@ In the '**Project_management**' folder you find the following documents:
 - Milestones (PDF)
 - Work breakdown structure (PDF)
 - Initial project idea (PDF)
-- Final project presentation (will be added by end of January 2024)
+- Final project presentation (PDF)
 - Final project report (will be added by mid of February 2024)
 
 In the '**Data**' folder you find:
