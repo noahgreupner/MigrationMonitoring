@@ -5,7 +5,7 @@
 ## Project links 
 [GitLab Wiki](https://git.sbg.ac.at/s1095729/sdi_sudan_migration/-/wikis/Home) <br>
 [Interactive Dashboard](https://geoportal22s.zgis.at/portal/apps/insights/index.html#/edit/94ecaf65cf844b3b8994069b97a63b90) <br>
-[WFS (IDPs)](https://zgis216.geo.sbg.ac.at/server/services/SudMig_Monthly_IDPs/MapServer/WFSServer) <br>
+[WFS (Internally Displaced Persons)](https://zgis216.geo.sbg.ac.at/server/services/SudMig_Monthly_IDPs/MapServer/WFSServer) <br>
 [WMS (Administrative Boundaries Sudan)](https://zgis216.geo.sbg.ac.at/server/services/SudMig_Sudan_States_AdminLevel1/MapServer/WMSServer) <br>
 
 ## Description
