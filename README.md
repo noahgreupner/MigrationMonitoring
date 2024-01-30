@@ -41,5 +41,5 @@ In the '**Data**' folder you find:
 - the geocoded migration data ('SudMig_Monthly_IDPs_Origin.zip') which was joined with the geodata by using the state of origin of IDPs (.shp) <br>
 
 In the '**Metadata**' folder you find:
-- the ISO19139-compliant metadata of the SudMig dataset in XML format ("SudMig_Monthly_IDPs_2023_ISO19139.xml") as well as in human-readable format ("SudMig_Monthly_IDPs_2023.pdf and .html)
-- the ISO19139-compliant metadata of the administrative boundaries of Sudan also in XML, PDF, and HTML format ("SudMig_Sudan_AdmBoundaries_Level1_ISO19139")    
+- ISO19139-compliant metadata of the Internally Displaced Persons in XML format ("SudMig_Monthly_IDPs_2023_ISO19139.xml") as well as in human-readable format ("SudMig_Monthly_IDPs_2023.pdf and .html)
+- ISO19139-compliant metadata of the administrative boundaries of Sudan also in XML, PDF, and HTML format ("SudMig_Sudan_AdmBoundaries_Level1_ISO19139")    
