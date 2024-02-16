@@ -9,6 +9,7 @@
 [ArcGIS Feature Layer (Internally Displaced Persons)](https://geoportal22s.zgis.at/portal/home/item.html?id=9efd45088c284194b4236bd8120fec73) <br>
 [Metadata (Internally Displaced Persons)](https://geoserver22s.zgis.at/geonetwork/srv/eng/catalog.search#/metadata/94E6A048-19FD-48DE-9254-831D2BEF9DA4) <br>
 [WMS (Administrative Boundaries Sudan)](https://geoportal22s.zgis.at/portal/home/item.html?id=b7b966b7392e4024b8a3c997340c0571) <br>
+[Metadata (Administrative Boundaries Sudan)](https://geoserver22s.zgis.at/geonetwork/srv/eng/catalog.search#/metadata/2faa663d-e8ca-44d0-af33-014c3c1e521d)
 
 ## Description
 The SudMig project aims at developing an interactive dashboard that provides valuable insights on the latest Sudanese internal migration. This is done by developing a well-founded underlying SDI (Spatial Data Infrastructure) strategy for the efficient and transparent gathering, processing and sharing of the migration geodata and the effective visualization in an informative dashboard. The SudMig dashboard, thereby, supports United Nation’s decision-making processes related to the 2023 military conflict which causes millions to flee to other parts of the country and neighbouring countries.     
