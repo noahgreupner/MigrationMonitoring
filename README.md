@@ -39,9 +39,7 @@ In the '**Project_management**' folder you find the following documents:
 - Final project report (will be added by mid of February 2024)
 
 In the '**Data**' folder you find:
-- the geodata ('SudMig_Sudan_AdmBoundaries_Level1.zip') that was used to geocode the actual migration data (.shp) <br>
-- the geocoded migration data ('SudMig_Monthly_IDPs_Displacement.zip') which was joined with the geodata by using the state of displacement of IDPs (.shp) <br>
-- the geocoded migration data ('SudMig_Monthly_IDPs_Origin.zip') which was joined with the geodata by using the state of origin of IDPs (.shp) <br>
+- the SudMig dataset containing the IDPs movements ('SudMig_IDPs_Dataset.gdb.zip'). Included there are also the administrative boundaries of Sudan.
 
 In the '**Metadata**' folder you find:
 - ISO19139-compliant metadata of the IDP dataset in XML format ("SudMig_Monthly_IDPs_2023_ISO19139.xml") as well as in human-readable format ("SudMig_Monthly_IDPs_2023.pdf and .html)
