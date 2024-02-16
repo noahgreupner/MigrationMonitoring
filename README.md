@@ -9,6 +9,7 @@
 [ArcGIS Feature Layer (IDPs)](https://geoportal22s.zgis.at/portal/home/item.html?id=9efd45088c284194b4236bd8120fec73),
 [Metadata (IDPs)](https://geoserver22s.zgis.at/geonetwork/srv/eng/catalog.search#/metadata/94E6A048-19FD-48DE-9254-831D2BEF9DA4) <br>
 [WMS (Administrative Boundaries Sudan)](https://geoportal22s.zgis.at/portal/home/item.html?id=b7b966b7392e4024b8a3c997340c0571),
+[WFS (Administrative Boundaries Sudan)](https://geoportal22s.zgis.at/portal/home/item.html?id=8ce1513870c744e7a5ef5b870a2a24e5),
 [Metadata (Administrative Boundaries Sudan)](https://geoserver22s.zgis.at/geonetwork/srv/eng/catalog.search#/metadata/2faa663d-e8ca-44d0-af33-014c3c1e521d)
 
 ## Description
