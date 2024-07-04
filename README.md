@@ -13,7 +13,7 @@
 [Metadata (Administrative Boundaries Sudan)](https://geoserver22s.zgis.at/geonetwork/srv/eng/catalog.search#/metadata/2faa663d-e8ca-44d0-af33-014c3c1e521d)
 
 ## Description
-The SudMig project aims at developing an interactive dashboard that provides valuable insights on the latest Sudanese internal migration. This is done by developing a well-founded underlying SDI (Spatial Data Infrastructure) strategy for the efficient and transparent gathering, processing and sharing of the migration geodata and the effective visualization in an informative dashboard. The SudMig dashboard, thereby, supports United Nation’s decision-making processes related to the 2023 military conflict which causes millions to flee to other parts of the country and neighbouring countries.     
+The SudMig project aimed at developing an interactive dashboard that provides valuable insights on the latest Sudanese internal migration. This is done by developing a well-founded underlying SDI (Spatial Data Infrastructure) strategy for the efficient and transparent gathering, processing and sharing of the migration geodata and the effective visualization in an informative dashboard. The SudMig dashboard, thereby, supports United Nation’s decision-making processes related to the 2023 military conflict which causes millions to flee to other parts of the country and neighbouring countries.     
 
 ## Contribution
 Suggestions or comments from other students and external interested people are highly appreciated! 
@@ -23,7 +23,7 @@ Stamatina Tounta - 3rd Semester Student M.Sc. A. Geoinformatics at the Paris-Lod
 Noah Greupner - 3rd Semester Student M.Sc. A. Geoinformatics at the Paris-Lodron-University Salzburg (noah.greupner@stud.plus.ac.at) 
 
 ## Project status
-The project is currently active and will be finished in early 2024. 
+The project has been finished in early 2024. 
 
 ## Folder structure
 Please find in the repository the SudMig documents and data.
